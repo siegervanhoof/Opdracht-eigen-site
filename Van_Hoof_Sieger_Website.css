@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+ul a{
+	background-color: white;
+	color:black;
+	font-size: 36px;
+	list-style-type: none;
+  	margin: 15px;
+  	padding: 0;
+	
+}
+header
+{ 
+
+display: flex;
+justify-content: space-between;
+align-terms: center;
+padding: 30px 10%;
+}
+h1 	{
+	text-align: center;
+	font-size: 40px;
+}
+#id1{
+	background-color: red;
+}
+
+
+
+p{
+	font-size: 24px;
+	text-align: center;
+	
+}
+#id2{
+	background-color: red;
+}
+
+h2{
+	font-size: 36px;
+	text-align: center;
+	word-spacing: 400px;
+	
+}
+h2 a{
+	text-decoration: none;
+	color:red;
+}
+#id3{
+	background-color: red;
+}
+#doelen{
+	text-align: left;
+}
+#doelen1{
+	text-align: left;
+}
+
+#id4{
+	background-color: red;
+}
+
+#id5{
+	background-color: gray;
+}
